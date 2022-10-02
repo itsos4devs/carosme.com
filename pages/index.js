@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>New platform for CARS!</title>
+        <title>CAROSME #7 ways to build modern cars</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
