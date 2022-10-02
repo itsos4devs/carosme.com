@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>New platform for CARS!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="CAR OS ME .. New way to build CARS !" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          COMMING SOON .. 
         </p>
       </main>
 
