@@ -6,16 +6,18 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>CAROSME #7 ways to build modern cars</title>
+        <title>CAROSME# ways to build modern cars</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <Header title="You have been PAWNED" />
-        <p className="description">
-          You have clicked on a malicious link which is part of the email campaign setup by the Cyber Defense Team in Carsome.
+        <h3 className="description">
+          You have clicked on a malicious link without reading the URL carefully. This would have caused your device to download Malaicious software or could have enabled an attacker to trick you into giving up your Carsome Credentials.
+          
+          This is a training excercise to educate all Carsome Staff about the importance of NOT clicking on random links without reading first.
           To learn more and protect yourself in the future follow this link <a href="#">WorkPlace</a>
-        </p>
+        </h3>
       </main>
 
       <Footer />
