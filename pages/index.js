@@ -11,9 +11,10 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="CAR OS ME .. New way to build CARS !" />
+        <Header title="You have been PAWNED" />
         <p className="description">
-          COMMING SOON .. 
+          You have clicked on a malicious link which is part of the email campaign setup by the Cyber Defense Team in Carsome.
+          To learn more and protect yourself in the future follow this link <a href="#">WorkPlace</a>
         </p>
       </main>
 
