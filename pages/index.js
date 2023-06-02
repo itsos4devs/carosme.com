@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <img src="/skull.png" style="width: 200px"/>
+        <img src="/skull.png" />
         <Header title="You have been PAWNED" />
         <p className="description">
           You have clicked on a malicious link without reading the URL carefully. This would have caused your device to download malicious software or could have enabled an attacker to trick you into giving up your Carsome Credentials.</p> <br /><br />
